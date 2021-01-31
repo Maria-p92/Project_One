@@ -69,7 +69,7 @@ main {
     height: 100vh;
     background-size: cover;
     background-position: center;
-    background-image:url(../0_PSD/assets/Layer\ 7.png)
+    background-image:url(../Project_One/assets/Layer\ 7.png)
 }
 
 .two{
@@ -144,30 +144,29 @@ footer{
     background-position: center;
     z-index: 10;
 }
-.img_L10 {background-image:url(../0_PSD/assets/Layer\ 10.png) }
-.img_L11 {background-image:url(../0_PSD/assets/Layer\ 11.png) }
-.img_L12 {background-image:url(../0_PSD/assets/Layer\ 12.png) }
-.img_L13 {background-image:url(../0_PSD/assets/Layer\ 13.png) }
-.img_L14 {background-image:url(../0_PSD/assets/Layer\ 14.png) }
-.img_L15 {background-image:url(../0_PSD/assets/Layer\ 15.png) }
-.img_L16 {background-image:url(../0_PSD/assets/Layer\ 16.png) }
-.img_L19 {background-image:url(../0_PSD/assets/Layer\ 19.png) }
-.img_L20 {background-image:url(../0_PSD/assets/Layer\ 20.png) }
-.img_L21 {background-image:url(../0_PSD/assets/Layer\ 21.png) }
-.img_L22 {background-image:url(../0_PSD/assets/Layer\ 22.png) }
-.img_L23 {background-image:url(../0_PSD/assets/Layer\ 23.png) }
-/* .img_L23:hover{opacity: 0.5} */
-.img_L24 {background-image:url(../0_PSD/assets/Layer\ 24.png) }
-.img_L25 {background-image:url(../0_PSD/assets/Layer\ 25.png) }
-.img_L26 {background-image:url(../0_PSD/assets/Layer\ 26.png) }
+.img_L10 {background-image:url(../Project_One/assets/Layer\ 10.png) }
+.img_L11 {background-image:url(../Project_One/assets/Layer\ 11.png) }
+.img_L12 {background-image:url(../Project_One/assets/Layer\ 12.png) }
+.img_L13 {background-image:url(../Project_One/assets/Layer\ 13.png) }
+.img_L14 {background-image:url(../Project_One/assets/Layer\ 14.png) }
+.img_L15 {background-image:url(../Project_One/assets/Layer\ 15.png) }
+.img_L16 {background-image:url(../Project_One/assets/Layer\ 16.png) }
+.img_L19 {background-image:url(../Project_One/assets/Layer\ 19.png) }
+.img_L20 {background-image:url(../Project_One/assets/Layer\ 20.png) }
+.img_L21 {background-image:url(../Project_One/assets/Layer\ 21.png) }
+.img_L22 {background-image:url(../Project_One/assets/Layer\ 22.png) }
+.img_L23 {background-image:url(../Project_One/assets/Layer\ 23.png) }
+/* .img_L23:hover{opacity: 0.5} */Project_One_L24 {background-image:url(../Project_One/assets/Layer\ 24.png) }
+.img_L25 {background-image:url(../Project_One/assets/Layer\ 25.png) }
+.img_L26 {background-image:url(../Project_One/assets/Layer\ 26.png) }
 
 *[class^="logo"] {
     /* center the logos */
    
 }
-.logo_0 { background-image:url(../0_PSD/assets/Logo.png) }
-.logo_2 { background-image:url(../0_PSD/assets/Logo2.png) }
-.logo_3 { background-image:url(../0_PSD/assets/Logo3.png) }
-.logo_4 { background-image:url(../0_PSD/assets/Logo4.png) }
+.logo_0 { background-image:url(../Project_One/assets/Logo.png) }
+.logo_2 { background-image:url(../Project_One/assets/Logo2.png) }
+.logo_3 { background-image:url(../Project_One/assets/Logo3.png) }
+.logo_4 { background-image:url(../Project_One/assets/Logo4.png) }
 
-.logo_13 { background-image:url(../0_PSD/assets/Shape\ 13.png) }
+.logo_13 { background-image:url(../Project_One/assets/Shape\ 13.png) }
