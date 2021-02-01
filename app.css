@@ -76,12 +76,6 @@ main {
     background-position: center;
     background-image:url(../Project_One/assets/Layer\ 7.png)
 }
-
-.two{
-    background-color: var(--color-1);
-    height: 563px;
-}
-
 .three{
     height: 720px;
 }
@@ -97,9 +91,11 @@ main {
     flex: 1;
 }
 
-.six{
-    justify-content: center;
+.two{
+    flex-direction: column;
     align-items: center;
+    justify-content: center;
+    display: flex;
     background-color: var(--color-1);
     height: 563px;
 }
@@ -223,9 +219,59 @@ div.f2 p{
     letter-spacing: 0.05rem;
     padding-left: 4rem;
     padding-right: 4rem;
+    color: #848789;
 }
 div.img_L15.f1{
     justify-content: center;
     align-items: center;
     display: flex;
+}
+.two div, .two article {
+    padding-left: 4rem;
+    padding-right: 4rem;
+    width: 60%;
+    text-align: center;
+}
+article.two h2{
+    padding-top: 1rem;
+    padding-bottom: 0.8rem;
+    font-size: 1.17rem;
+}
+.two p{
+    margin: 0;
+    padding-left: 25rem;
+    padding-right: 25rem;
+    line-height: 2rem;
+    letter-spacing: 0.05rem;
+    text-align: center;
+    color: #848789;
+}
+div.two{
+    width: 100%;
+}
+div.two p{
+    font-style: italic;
+    font-size: 1.4rem;
+    opacity: 0.7;
+}
+div.two div{
+    margin-top: 2rem;
+    margin-bottom: 1.2rem;
+    display: flex;
+    justify-content: center;
+}
+div.two h5, div.two h6{
+    opacity: 0.8;
+    letter-spacing: 0.09rem;
+    font-size: 1rem;
+    margin: 0;
+}
+div.two h6{
+    margin-left: 0.5em;
+}
+h6 strong{
+    color:#848789;
+    font-weight: 300;
+    letter-spacing: 0.1rem;
+    margin-left: 0.4rem;
 }
